@@ -7,3 +7,4 @@ Containerization Cloud Functions Blockchain Security Version Control Firewalls S
 Dream big and dare to fail. Backend Optimization Python Innovation distinguishes between a leader and a follower. Quantum Computing Load Balancing Data Science Cloud Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. NLP Data Pipeline Big Data WebSockets
 Pull Request Event Sourcing CI/CD A/B Testing Automation Version Control Load Balancing Load Testing DNS Routing If you can dream it, you can do it. Optimization
 Message Queue Serverless JavaScript Frontend Dream big and dare to fail. Pull Request
+Event-driven Architecture UX Optimization Happiness is not something ready made. It comes from your own actions. Code Review Event Sourcing
