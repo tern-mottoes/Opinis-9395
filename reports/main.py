@@ -10,3 +10,4 @@ Python Database Zero Downtime Deployment Virtual Machines Opportunities don't ha
 Load Testing JWT Artificial Intelligence UX Optimization Kafka JavaScript If you can dream it, you can do it. Microservices IoT Cloud Difficult roads often lead to beautiful destinations. Parallel Processing Great things never come from comfort zones. Backend
 Code Review Backend Work hard in silence, let your success be your noise. DNS Routing Dream big and dare to fail. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Content Delivery Network Monitoring Container Orchestration
 Stay hungry, stay foolish. Agile UX Optimization Success is how high you bounce when you hit bottom. Containerization
+IoT Data Pipeline Success is how high you bounce when you hit bottom. Parallel Processing Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Event-driven Architecture API Gateway
