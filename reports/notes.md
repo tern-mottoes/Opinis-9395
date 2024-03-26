@@ -11,3 +11,4 @@ Happiness is not something ready made. It comes from your own actions. Stay hung
 Dream big and dare to fail. Security Success is not in what you have, but who you are. WebSockets Big Data Kafka Opportunities don't happen. You create them. Blockchain Innovation distinguishes between a leader and a follower. Logging
 Data Pipeline The only way to do great work is to love what you do. Security Parallel Processing Database Kafka Pull Request Backend
 Don't be afraid to give up the good to go for the great. Multi-threading Database Indexing To be the best, you must be able to handle the worst. Security JWT Predictive Analytics
+Event Sourcing DNS Routing Monitoring Docker Success is how high you bounce when you hit bottom. WebSockets Edge Computing Version Control Data Science API Gateway
