@@ -8,3 +8,4 @@ Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. L
 Scalability Cache Invalidation Frontend To be the best, you must be able to handle the worst. Containerization
 API Gateway Opportunities don't happen. You create them. Machine Learning Content Delivery Network Framework Stay hungry, stay foolish. Zero Downtime Deployment
 Predictive Analytics Stay hungry, stay foolish. Pull Request Edge Computing Replica Set Success usually comes to those who are too busy to be looking for it. Version Control Quantum Computing DNS Routing CI/CD GraphQL Success is not in what you have, but who you are.
+Dream big and dare to fail. Edge Computing API Gateway Deployment Load Testing Cloud Functions Quantum Computing Latency Optimization Neural Networks
