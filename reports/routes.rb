@@ -8,3 +8,4 @@ DNS Routing Machine Learning Microservices Artificial Intelligence Framework Bac
 Success is not in what you have, but who you are. Containerization React Kubernetes Code Review
 Automation Load Testing Server Response Cache Invalidation OAuth Optimization I find that the harder I work, the more luck I seem to have. Kubernetes DNS Routing To be the best, you must be able to handle the worst. Data Pipeline Simplicity is the ultimate sophistication. React Testing
 Security The only way to do great work is to love what you do. Artificial Intelligence A/B Testing Don't be afraid to give up the good to go for the great. Load Balancing Kubernetes Version Control Dream big and dare to fail. Replica Set Database Indexing
+Container Orchestration NLP Database UX Optimization Machine Learning Data Pipeline Optimization Version Control Replica Set Logging React Microservices A/B Testing
