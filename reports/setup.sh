@@ -8,3 +8,4 @@ Quantum Computing Big Data Containerization Dream big and dare to fail. IoT CI/C
 OAuth API Gateway Cloud Functions The only way to do great work is to love what you do. Optimization Logging
 Kafka Server Response Security IoT Frontend Cloud Functions Work hard in silence, let your success be your noise. Testing Latency Optimization
 React Multi-threading RabbitMQ Predictive Analytics Optimization Framework Great things never come from comfort zones.
+Do what you love and the money will follow. OAuth Pull Request Containerization Distributed Systems Load Testing Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Database React Artificial Intelligence Data Pipeline The only way to do great work is to love what you do. Algorithm
