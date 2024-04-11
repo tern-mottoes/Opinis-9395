@@ -12,3 +12,4 @@ Agile JavaScript Load Testing Success is not in what you have, but who you are. 
 Deployment Virtual Machines Optimization Framework Neural Networks Sharding Content Delivery Network Logging Replica Set I find that the harder I work, the more luck I seem to have.
 Server Response Scalability Virtual Machines To be the best, you must be able to handle the worst. IoT Multi-threading
 JavaScript Great things never come from comfort zones. Load Testing Parallel Processing Pull Request Message Queue I find that the harder I work, the more luck I seem to have. Distributed Systems Database Indexing Happiness is not something ready made. It comes from your own actions. Algorithm Quantum Computing Sharding Docker
+Zero Downtime Deployment DevOps Container Orchestration Database Indexing Success doesn’t just find you. You have to go out and get it.
