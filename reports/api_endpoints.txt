@@ -9,3 +9,4 @@ Deployment Algorithm Multi-threading RabbitMQ Container Orchestration Serverless
 DevOps Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Data Pipeline Pull Request Zero Downtime Deployment Lambda Functions Microservices Optimization
 Kubernetes Multi-threading Artificial Intelligence Event Sourcing Parallel Processing A/B Testing API Event-driven Architecture Server Response
 Latency Optimization Success usually comes to those who are too busy to be looking for it. Machine Learning OAuth Deployment Docker Quantum Computing Load Testing Happiness is not something ready made. It comes from your own actions. Sharding Backend API Gateway To be the best, you must be able to handle the worst. Lambda Functions Python
+Agile Content Delivery Network Microservices Deployment API Gateway Replica Set
