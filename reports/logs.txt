@@ -14,3 +14,4 @@ Machine Learning CI/CD Stay hungry, stay foolish. Deployment Replica Set JWT Kub
 CI/CD Python Firewalls UX Optimization Version Control Deployment
 A/B Testing Framework Container Orchestration Kubernetes Cloud Database JavaScript Blockchain I find that the harder I work, the more luck I seem to have. Data Pipeline
 Edge Computing Logging Multi-threading Data Pipeline CI/CD IoT Framework Act as if what you do makes a difference. It does. UX Optimization Cache Invalidation Sharding
+Backend I find that the harder I work, the more luck I seem to have. Scalability Load Balancing Great things never come from comfort zones. RabbitMQ Event Sourcing Success is how high you bounce when you hit bottom. Virtual Machines Frontend To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Server Response Stay hungry, stay foolish. API
