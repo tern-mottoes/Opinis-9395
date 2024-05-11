@@ -13,3 +13,4 @@ Container Orchestration Edge Computing Distributed Systems Frontend Machine Lear
 Machine Learning CI/CD Stay hungry, stay foolish. Deployment Replica Set JWT Kubernetes WebSockets Algorithm
 CI/CD Python Firewalls UX Optimization Version Control Deployment
 A/B Testing Framework Container Orchestration Kubernetes Cloud Database JavaScript Blockchain I find that the harder I work, the more luck I seem to have. Data Pipeline
+Edge Computing Logging Multi-threading Data Pipeline CI/CD IoT Framework Act as if what you do makes a difference. It does. UX Optimization Cache Invalidation Sharding
