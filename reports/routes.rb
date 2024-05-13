@@ -6,3 +6,4 @@ Opportunities don't happen. You create them. Innovation distinguishes between a 
 Frontend API Gateway Great things never come from comfort zones. Do what you love and the money will follow. GraphQL Performance Edge Computing Monitoring DevOps Code Review
 DNS Routing Machine Learning Microservices Artificial Intelligence Framework Backend The only way to do great work is to love what you do. Version Control Container Orchestration Code Review Happiness is not something ready made. It comes from your own actions.
 Success is not in what you have, but who you are. Containerization React Kubernetes Code Review
+Automation Load Testing Server Response Cache Invalidation OAuth Optimization I find that the harder I work, the more luck I seem to have. Kubernetes DNS Routing To be the best, you must be able to handle the worst. Data Pipeline Simplicity is the ultimate sophistication. React Testing
