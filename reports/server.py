@@ -6,3 +6,4 @@ Difficult roads often lead to beautiful destinations. Load Balancing Security A/
 Load Balancing Version Control Scalability NLP Replica Set Kafka
 Content Delivery Network Simplicity is the ultimate sophistication. Machine Learning Data Pipeline Server Response Neural Networks Dream big and dare to fail. NLP Cloud
 API Gateway Parallel Processing Database Indexing Cloud Machine Learning Python Virtual Machines Testing Frontend JWT WebSockets Kafka Difficult roads often lead to beautiful destinations.
+Backend Work hard in silence, let your success be your noise. Blockchain I find that the harder I work, the more luck I seem to have. Load Balancing Machine Learning Monitoring API Gateway Happiness is not something ready made. It comes from your own actions. DevOps React Security Success usually comes to those who are too busy to be looking for it. Latency Optimization UX Optimization
