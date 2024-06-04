@@ -12,3 +12,4 @@ Dream big and dare to fail. Algorithm OAuth Kubernetes DNS Routing Innovation di
 Container Orchestration Edge Computing Distributed Systems Frontend Machine Learning Optimization Event-driven Architecture Dream big and dare to fail. Version Control
 Machine Learning CI/CD Stay hungry, stay foolish. Deployment Replica Set JWT Kubernetes WebSockets Algorithm
 CI/CD Python Firewalls UX Optimization Version Control Deployment
+A/B Testing Framework Container Orchestration Kubernetes Cloud Database JavaScript Blockchain I find that the harder I work, the more luck I seem to have. Data Pipeline
