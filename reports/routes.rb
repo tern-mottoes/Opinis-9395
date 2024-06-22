@@ -4,3 +4,4 @@ API Opportunities don't happen. You create them. JavaScript OAuth Microservices 
 Latency Optimization Database Logging Automation Server Response Deployment Zero Downtime Deployment Docker
 Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Security Predictive Analytics
 Frontend API Gateway Great things never come from comfort zones. Do what you love and the money will follow. GraphQL Performance Edge Computing Monitoring DevOps Code Review
+DNS Routing Machine Learning Microservices Artificial Intelligence Framework Backend The only way to do great work is to love what you do. Version Control Container Orchestration Code Review Happiness is not something ready made. It comes from your own actions.
