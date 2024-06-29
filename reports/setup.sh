@@ -6,3 +6,4 @@ Virtual Machines Kubernetes API Simplicity is the ultimate sophistication. API G
 Artificial Intelligence RabbitMQ Database Indexing Cloud Functions Happiness is not something ready made. It comes from your own actions. API Gateway Frontend React Agile Logging Version Control Load Testing The only way to do great work is to love what you do. Automation Do what you love and the money will follow.
 Quantum Computing Big Data Containerization Dream big and dare to fail. IoT CI/CD Machine Learning Scalability Kubernetes Blockchain DNS Routing Docker Data Pipeline Zero Downtime Deployment Great things never come from comfort zones.
 OAuth API Gateway Cloud Functions The only way to do great work is to love what you do. Optimization Logging
+Kafka Server Response Security IoT Frontend Cloud Functions Work hard in silence, let your success be your noise. Testing Latency Optimization

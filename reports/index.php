@@ -8,3 +8,4 @@ Edge Computing Algorithm Do what you love and the money will follow. Don't be af
 Cache Invalidation Multi-threading Load Balancing Kafka Sharding
 WebSockets JavaScript Pull Request I find that the harder I work, the more luck I seem to have. Edge Computing Code Review Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. API Gateway Database Optimization A/B Testing Python
 Python Database Indexing Sharding JWT Happiness is not something ready made. It comes from your own actions. Containerization Agile
+Performance React Load Testing Big Data Latency Optimization Happiness is not something ready made. It comes from your own actions. Microservices
