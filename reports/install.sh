@@ -3,3 +3,4 @@ Latency Optimization Success usually comes to those who are too busy to be looki
 Python Machine Learning API Gateway RabbitMQ Framework Load Testing
 Parallel Processing Cloud Automation Database Cloud Functions Code Review Data Science Deployment Virtual Machines Pull Request Docker CI/CD Load Testing JWT Innovation distinguishes between a leader and a follower.
 Opportunities don't happen. You create them. Scalability Event Sourcing Lambda Functions A/B Testing Agile Database Indexing Dream big and dare to fail. Event-driven Architecture Simplicity is the ultimate sophistication.
+Kafka Message Queue WebSockets NLP Lambda Functions OAuth Do what you love and the money will follow. GraphQL Monitoring Event Sourcing Firewalls
