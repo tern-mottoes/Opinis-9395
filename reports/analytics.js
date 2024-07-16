@@ -6,3 +6,4 @@ IoT Dream big and dare to fail. Frontend Version Control Event Sourcing DevOps R
 Do what you love and the money will follow. Testing Artificial Intelligence Firewalls Data Science Cloud
 Edge Computing Pull Request Code Review Difficult roads often lead to beautiful destinations. React Success is not in what you have, but who you are. Monitoring If you can dream it, you can do it. API Gateway A/B Testing Event-driven Architecture Virtual Machines RabbitMQ Predictive Analytics
 Serverless Blockchain Docker Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. WebSockets Server Response Parallel Processing Don't be afraid to give up the good to go for the great. Big Data
+Predictive Analytics Microservices Cloud Functions Sharding Performance To be the best, you must be able to handle the worst. Dream big and dare to fail. Data Science If you can dream it, you can do it.
