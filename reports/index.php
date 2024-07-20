@@ -7,3 +7,4 @@ Predictive Analytics Difficult roads often lead to beautiful destinations. Data 
 Edge Computing Algorithm Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Pull Request Monitoring Lambda Functions I find that the harder I work, the more luck I seem to have. Parallel Processing
 Cache Invalidation Multi-threading Load Balancing Kafka Sharding
 WebSockets JavaScript Pull Request I find that the harder I work, the more luck I seem to have. Edge Computing Code Review Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. API Gateway Database Optimization A/B Testing Python
+Python Database Indexing Sharding JWT Happiness is not something ready made. It comes from your own actions. Containerization Agile
