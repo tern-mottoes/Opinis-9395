@@ -8,3 +8,4 @@ Database NLP Stay hungry, stay foolish. Microservices Frontend Server Response C
 Sharding Kubernetes Quantum Computing Blockchain Latency Optimization Deployment Cache Invalidation Load Testing Big Data Message Queue Framework Cloud Functions Virtual Machines
 Multi-threading Success is how high you bounce when you hit bottom. JavaScript Sharding Great things never come from comfort zones.
 Cloud Great things never come from comfort zones. NLP OAuth Database Indexing DevOps Event-driven Architecture Content Delivery Network JavaScript Serverless Data Science Testing Kubernetes Sharding JWT
+Agile JavaScript Load Testing Success is not in what you have, but who you are. Docker Distributed Systems Latency Optimization Event Sourcing UX Optimization
