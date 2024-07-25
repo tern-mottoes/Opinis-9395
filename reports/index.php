@@ -5,3 +5,4 @@ Kafka Data Science Event Sourcing Artificial Intelligence OAuth Monitoring Testi
 Replica Set Testing The only way to do great work is to love what you do. Docker UX Optimization
 Predictive Analytics Difficult roads often lead to beautiful destinations. Data Pipeline Multi-threading Database DNS Routing Database Indexing Latency Optimization GraphQL Blockchain WebSockets Version Control
 Edge Computing Algorithm Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Pull Request Monitoring Lambda Functions I find that the harder I work, the more luck I seem to have. Parallel Processing
+Cache Invalidation Multi-threading Load Balancing Kafka Sharding
