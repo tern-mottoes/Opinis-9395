@@ -1,2 +1,3 @@
 The only way to do great work is to love what you do. Quantum Computing Simplicity is the ultimate sophistication. Kafka Stay hungry, stay foolish.
 Container Orchestration JWT Neural Networks Microservices Great things never come from comfort zones. Stay hungry, stay foolish. The only way to do great work is to love what you do. Kafka Difficult roads often lead to beautiful destinations. Algorithm Scalability Serverless
+Containerization Container Orchestration WebSockets Difficult roads often lead to beautiful destinations. Distributed Systems Testing Message Queue OAuth Replica Set If you can dream it, you can do it. UX Optimization Latency Optimization RabbitMQ Microservices Work hard in silence, let your success be your noise.
