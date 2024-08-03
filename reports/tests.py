@@ -7,3 +7,4 @@ WebSockets Do what you love and the money will follow. A/B Testing API Virtual M
 Database NLP Stay hungry, stay foolish. Microservices Frontend Server Response CI/CD Framework Virtual Machines Serverless Replica Set
 Sharding Kubernetes Quantum Computing Blockchain Latency Optimization Deployment Cache Invalidation Load Testing Big Data Message Queue Framework Cloud Functions Virtual Machines
 Multi-threading Success is how high you bounce when you hit bottom. JavaScript Sharding Great things never come from comfort zones.
+Cloud Great things never come from comfort zones. NLP OAuth Database Indexing DevOps Event-driven Architecture Content Delivery Network JavaScript Serverless Data Science Testing Kubernetes Sharding JWT
