@@ -3,3 +3,4 @@ To be the best, you must be able to handle the worst. Agile Artificial Intellige
 API Opportunities don't happen. You create them. JavaScript OAuth Microservices Replica Set DevOps Automation Success doesn’t just find you. You have to go out and get it. Sharding RabbitMQ Pull Request Lambda Functions To be the best, you must be able to handle the worst.
 Latency Optimization Database Logging Automation Server Response Deployment Zero Downtime Deployment Docker
 Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Security Predictive Analytics
+Frontend API Gateway Great things never come from comfort zones. Do what you love and the money will follow. GraphQL Performance Edge Computing Monitoring DevOps Code Review
