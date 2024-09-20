@@ -3,3 +3,4 @@ Server Response NLP Happiness is not something ready made. It comes from your ow
 Machine Learning Firewalls The only way to do great work is to love what you do. Scalability Performance JavaScript Security Predictive Analytics Containerization GraphQL
 Kafka Data Science Event Sourcing Artificial Intelligence OAuth Monitoring Testing A/B Testing API Gateway Predictive Analytics Simplicity is the ultimate sophistication.
 Replica Set Testing The only way to do great work is to love what you do. Docker UX Optimization
+Predictive Analytics Difficult roads often lead to beautiful destinations. Data Pipeline Multi-threading Database DNS Routing Database Indexing Latency Optimization GraphQL Blockchain WebSockets Version Control
