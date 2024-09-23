@@ -9,3 +9,4 @@ Happiness is not something ready made. It comes from your own actions. Docker Op
 Zero Downtime Deployment Optimization Event-driven Architecture Parallel Processing Stay hungry, stay foolish. To be the best, you must be able to handle the worst.
 Multi-threading IoT UX Optimization If you can dream it, you can do it. Firewalls Zero Downtime Deployment Dream big and dare to fail.
 Dream big and dare to fail. Algorithm OAuth Kubernetes DNS Routing Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Serverless
+Container Orchestration Edge Computing Distributed Systems Frontend Machine Learning Optimization Event-driven Architecture Dream big and dare to fail. Version Control
