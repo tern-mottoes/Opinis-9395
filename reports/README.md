@@ -3,3 +3,4 @@ Backend Quantum Computing Code Review Blockchain Agile Database DevOps Cache Inv
 Success doesn’t just find you. You have to go out and get it. API Cloud Microservices Machine Learning Distributed Systems Edge Computing Blockchain Code Review Firewalls Frontend Stay hungry, stay foolish.
 Sharding Algorithm Cache Invalidation Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. GraphQL Predictive Analytics Agile Latency Optimization
 OAuth Microservices Replica Set Docker Artificial Intelligence Kubernetes Version Control Logging Neural Networks
+If you can dream it, you can do it. Containerization Latency Optimization To be the best, you must be able to handle the worst. Great things never come from comfort zones.
