@@ -5,3 +5,4 @@ A/B Testing Dream big and dare to fail. Act as if what you do makes a difference
 Difficult roads often lead to beautiful destinations. Load Balancing Security A/B Testing UX Optimization
 Load Balancing Version Control Scalability NLP Replica Set Kafka
 Content Delivery Network Simplicity is the ultimate sophistication. Machine Learning Data Pipeline Server Response Neural Networks Dream big and dare to fail. NLP Cloud
+API Gateway Parallel Processing Database Indexing Cloud Machine Learning Python Virtual Machines Testing Frontend JWT WebSockets Kafka Difficult roads often lead to beautiful destinations.
