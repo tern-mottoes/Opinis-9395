@@ -4,3 +4,4 @@ Virtual Machines Quantum Computing Message Queue Dream big and dare to fail. Log
 Monitoring Parallel Processing Latency Optimization Load Balancing Big Data If you can dream it, you can do it. CI/CD Kubernetes Virtual Machines Database Indexing WebSockets Cloud API Gateway To be the best, you must be able to handle the worst.
 NLP Machine Learning Stay hungry, stay foolish. Message Queue The only way to do great work is to love what you do. Backend
 WebSockets Do what you love and the money will follow. A/B Testing API Virtual Machines Multi-threading JWT Happiness is not something ready made. It comes from your own actions. Parallel Processing Predictive Analytics Replica Set Version Control Optimization Quantum Computing
+Database NLP Stay hungry, stay foolish. Microservices Frontend Server Response CI/CD Framework Virtual Machines Serverless Replica Set
