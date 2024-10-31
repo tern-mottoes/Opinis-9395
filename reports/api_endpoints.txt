@@ -1,3 +1,4 @@
 To be the best, you must be able to handle the worst. Lambda Functions Dream big and dare to fail. Opportunities don't happen. You create them. Database Indexing IoT Blockchain
 Kafka Cloud Success usually comes to those who are too busy to be looking for it. Performance JavaScript RabbitMQ DevOps
 Backend Kafka Agile Database CI/CD API Containerization Python Deployment Sharding Stay hungry, stay foolish. A/B Testing Event Sourcing Success usually comes to those who are too busy to be looking for it.
+RabbitMQ IoT Pull Request Success doesn’t just find you. You have to go out and get it. Frontend Data Science Neural Networks Performance UX Optimization Virtual Machines Quantum Computing Database Indexing Backend Event-driven Architecture Replica Set
