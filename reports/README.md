@@ -1,3 +1,4 @@
 Message Queue Big Data GraphQL Kafka Optimization Monitoring Don't be afraid to give up the good to go for the great. Security Act as if what you do makes a difference. It does. Neural Networks Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are.
 Backend Quantum Computing Code Review Blockchain Agile Database DevOps Cache Invalidation
 Success doesn’t just find you. You have to go out and get it. API Cloud Microservices Machine Learning Distributed Systems Edge Computing Blockchain Code Review Firewalls Frontend Stay hungry, stay foolish.
+Sharding Algorithm Cache Invalidation Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. GraphQL Predictive Analytics Agile Latency Optimization

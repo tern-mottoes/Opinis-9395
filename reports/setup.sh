@@ -1,3 +1,4 @@
 Parallel Processing Virtual Machines Simplicity is the ultimate sophistication. Great things never come from comfort zones. NLP Optimization
 IoT Predictive Analytics Testing Container Orchestration Happiness is not something ready made. It comes from your own actions. OAuth
 Work hard in silence, let your success be your noise. RabbitMQ Logging Zero Downtime Deployment Performance Data Science Success usually comes to those who are too busy to be looking for it. Deployment JWT Success is how high you bounce when you hit bottom. Big Data Success doesn’t just find you. You have to go out and get it.
+Load Testing DevOps Innovation distinguishes between a leader and a follower. Cloud GraphQL Logging NLP Zero Downtime Deployment Multi-threading Success doesn’t just find you. You have to go out and get it. Lambda Functions
