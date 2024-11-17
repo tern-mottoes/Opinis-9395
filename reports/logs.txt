@@ -5,3 +5,4 @@ Don't be afraid to give up the good to go for the great. Server Response Monitor
 DNS Routing Content Delivery Network Performance A/B Testing Parallel Processing Server Response Cloud Functions Security
 If you can dream it, you can do it. Event-driven Architecture JWT Latency Optimization Machine Learning API
 Stay hungry, stay foolish. Database Success is how high you bounce when you hit bottom. Data Pipeline To be the best, you must be able to handle the worst. Testing Parallel Processing Predictive Analytics API Big Data Message Queue Cloud Functions
+Happiness is not something ready made. It comes from your own actions. Docker Optimization React CI/CD Success usually comes to those who are too busy to be looking for it. IoT Success doesn’t just find you. You have to go out and get it. API Load Balancing Virtual Machines Latency Optimization Event-driven Architecture
