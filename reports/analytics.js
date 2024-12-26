@@ -1,1 +1,2 @@
 Lambda Functions Success is not in what you have, but who you are. Server Response To be the best, you must be able to handle the worst. Testing Logging Cloud
+Stay hungry, stay foolish. Testing Lambda Functions Zero Downtime Deployment Logging Optimization Data Science Quantum Computing Don't be afraid to give up the good to go for the great. DevOps Latency Optimization Load Balancing Cloud Functions OAuth
